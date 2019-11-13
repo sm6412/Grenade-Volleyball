@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - left barrier
+  - left player
+  - right player
+  - left court
+  - right court
+  - left side
+  - right side
+  - start
+  - grenade end
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1432215591
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 982530187
+    locked: 0
+  - name: Players
+    uniqueID: 2284111495
+    locked: 0
+  - name: Wall
+    uniqueID: 307657665
+    locked: 0
+  - name: Plane
+    uniqueID: 3145420283
+    locked: 0
+  - name: Grenade
+    uniqueID: 12099057
+    locked: 0
+  - name: UI
+    uniqueID: 810584093
+    locked: 0
